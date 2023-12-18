@@ -1,5 +1,5 @@
 # Projeto-de-monitoramento-de-Plantio-Backand
-Projeto backend que foi desenvolvido para ser consumido pelo frontend do mesmo, listado no próximo repositório, ou (clique aqui)[https://github.com/RayssaOliveiraa/Projeto-de-monitoramento-de-Plantio] para acessá-lo. 
+Projeto backend que foi desenvolvido para ser consumido pelo frontend do mesmo, listado no próximo repositório, ou (https://github.com/RayssaOliveiraa/Projeto-de-monitoramento-de-Plantio) para acessá-lo. 
 
 ##Tecnologias utilizadas
 
